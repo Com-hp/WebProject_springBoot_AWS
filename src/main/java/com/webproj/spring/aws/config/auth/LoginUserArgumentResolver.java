@@ -1,6 +1,5 @@
 package com.webproj.spring.aws.config.auth;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import com.webproj.spring.aws.config.auth.dto.SessionUser;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.MethodParameter;
